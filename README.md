@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm a Full Stack & Laravel Developer 👋
 
-<!--
-**l1f20bsse0524/l1f20bsse0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications, create email marketing campaigns, and design graphics that help businesses grow.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- Full Stack Web Development
+- Laravel & PHP
+- HTML, CSS & JavaScript
+- MySQL & Database Management
+- Email Marketing
+- Graphic Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Develop websites and web applications
+- Build backend systems and APIs
+- Create responsive website layouts
+- Design email campaigns and marketing graphics
+
+### 📫 Let's Connect
+Available for freelance projects and collaboration.
