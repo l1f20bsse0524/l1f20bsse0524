@@ -1,20 +1,30 @@
-# Hi, I'm a Full Stack & Laravel Developer 👋
+# Hi, 👋
 
-I build web applications, create email marketing campaigns, and design graphics that help businesses grow.
+### AI SaaS & Full Stack Developer | RAG, LLM Agents, Next.js, Node.js
 
-### 💻 Skills
-- Full Stack Web Development
-- Laravel & PHP
-- HTML, CSS & JavaScript
-- MySQL & Database Management
-- Email Marketing
-- Graphic Design
+I build web applications, AI-powered assistants, and business automation solutions. I also work on email marketing and graphic design.
 
-### 🚀 What I Do
-- Develop websites and web applications
-- Build backend systems and APIs
-- Create responsive website layouts
-- Design email campaigns and marketing graphics
+## 💻 Tech Stack
 
-### 📫 Let's Connect
-Available for freelance projects and collaboration.
+- **Frontend:** Next.js, React, JavaScript, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Laravel, PHP, REST APIs
+- **Database:** MySQL
+- **AI:** RAG, LLM Agents, Claude AI, Vector Search
+
+## 🚀 What I Build
+
+- AI-powered SaaS applications and MVPs
+- Chatbots trained on business documents and knowledge bases
+- AI agents and workflow automation
+- Responsive websites, dashboards, and customer portals
+- Backend systems and third-party API integrations
+
+## 🛠️ Featured Project
+
+**Botlet — AI Chatbot Builder**
+A no-code platform for creating, training, and embedding AI assistants.
+Built with Next.js, Tailwind CSS, Claude AI, RAG, and vector search.
+
+## 🎨 Additional Skills
+
+Email Marketing • Graphic Design
